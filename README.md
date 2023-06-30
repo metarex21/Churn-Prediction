@@ -4,7 +4,7 @@
 
 A churn predictor is a machine learning model that helps identify customers who are likely to leave a business or stop using its services. This repository contains code and resources for developing a churn predictor.
 
-##Dataset
+## Dataset
 
 This dataset contains customer data from a telecommunications company and is focused on predicting customer churn. The dataset provides information about customers' demographics, services subscribed, and churn status.
 
