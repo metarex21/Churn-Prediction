@@ -1,4 +1,4 @@
-# Churn Predictor
+# Churn Predicton
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -57,4 +57,5 @@ Make sure you have the following prerequisites installed:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/metarex21/churn-predictor.git
+   git clone https://github.com/metarex21/churn-predicton.git
+   ```
