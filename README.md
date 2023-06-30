@@ -1,10 +1,10 @@
-# Churn Predictor
+# Churn Predicton
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 A churn predictor is a machine learning model that helps identify customers who are likely to leave a business or stop using its services. This repository contains code and resources for developing a churn predictor.
 
-##Dataset
+## Dataset
 
 This dataset contains customer data from a telecommunications company and is focused on predicting customer churn. The dataset provides information about customers' demographics, services subscribed, and churn status.
 
@@ -57,4 +57,5 @@ Make sure you have the following prerequisites installed:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/metarex21/churn-predictor.git
+   git clone https://github.com/metarex21/churn-predicton.git
+   ```
